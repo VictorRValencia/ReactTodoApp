@@ -11,6 +11,10 @@ div input.TodoSearch {
   color: #1e1e1f;
 }
 
+img.imgNotas{
+  width: 15rem;
+}
+
 div input.TodoSearch::placeholder {
   color: black;
   box-shadow: #202329;
@@ -43,7 +47,7 @@ h1 {
 
 
 div.col2{
-  padding-top: 14rem;
+  padding-top: 5rem;
 }
 
 div.col2 p{
