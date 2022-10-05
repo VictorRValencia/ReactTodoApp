@@ -1,0 +1,62 @@
+div input.TodoSearch {
+  background: #f9fbfc;
+  border-radius: 2px;
+  border: 2px solid #202329;
+  height: 64px;
+  width: 30rem;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Montserrat";
+  font-weight: 400;
+  color: #1e1e1f;
+}
+
+div input.TodoSearch::placeholder {
+  color: black;
+  box-shadow: #202329;
+  font-family: "Montserrat";
+  font-weight: 400;
+}
+
+div input.TodoSearch {
+  border-radius: 0.4rem;
+  text-shadow: -1px 0 #1e1e1f, 0 1px black, 1px 0 #1e1e1f, 0 -1px black;
+
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+
+div input.TodoSearch:focus {
+  border: 4px solid wheat;
+}
+
+h1 {
+  width: 20rem;
+  color: wheat;
+  text-shadow: -1px 0 teal, 0 1px black, 1px 0 black, 0 -1px teal;
+}
+
+.col{
+  text-align: center;
+}
+
+
+div.col2{
+  padding-top: 14rem;
+}
+
+div.col2 p{
+  font-family: "Bungee Spice", cursive;
+  color: white;
+  font-size: 20px;
+  text-shadow: -1px 0 wheat, 0 1px yellow, 1px 0 wheat, 0 -1px yellow;
+}
+
+.col1 p {
+  font-family: "Bungee Spice", cursive;
+  color: white;
+  font-size: 20px;
+  text-shadow: -1px 0 wheat, 0 1px yellow, 1px 0 wheat, 0 -1px yellow;
+}
+

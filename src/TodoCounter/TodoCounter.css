@@ -1,0 +1,17 @@
+.TodoCounter {
+  font-family: "Bungee Spice", cursive;
+  color: aliceblue;
+  font-size: 24px;
+  text-align: center;
+  margin: 0;
+  padding: 48px;
+  text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 red, 0 -1px red;
+}
+
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
